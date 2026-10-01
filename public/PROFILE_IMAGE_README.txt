@@ -1,0 +1,1 @@
+Put your profile photo here as public/profile.jpg. The current hero uses a generated quantum visual, so the site works without a photo.
